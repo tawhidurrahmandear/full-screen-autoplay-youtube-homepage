@@ -3,7 +3,7 @@ If you want to promote Current or upcoming event, Upcoming movie, book, music, N
 <br>
 * developed by Tawhidur Rahman Dear, https://www.tawhidurrahmandear.com <br>
 * Live Preview at https://tawhidurrahmandear.github.io/html-template-for-fullscreen-youtube-homepage <br>
-* Released under GPL-3.0 license on Github at https://tawhidurrahmandear.github.io/html-template-for-fullscreen-youtube-homepage <br><br>
+* Released under GPL-3.0 license on Github at https://github.com/tawhidurrahmandear/html-template-for-fullscreen-youtube-homepage <br><br>
 
 
 ## Features <br>
